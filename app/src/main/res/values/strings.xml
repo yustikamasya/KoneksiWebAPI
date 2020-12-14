@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PCS_Tab_0114</string>
+    <string name="tab_text_1">TAYANG</string>
+    <string name="tab_text_2">FAVORIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
